@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer science graduate student with a background in biological research  <br><br>Motivated to use data science and software development to improve the quality of life 🧬  and our environment 🌍 <br><br>Outside of coding, you can find me enjoying a long run, learning spanish, reading novels, trying new recipes, and practicing yoga 🧘<br><br>
+Computer science graduate student with a background in biological research  <br><br>Motivated to use data science and software development to improve the quality of life 🧬  and our environment 🌍 <br><br>Besides coding, you can find me enjoying a long run, learning Spanish, reading novels, trying new recipes, and practicing yoga 🧘<br><br>
 
 
 ## 🌐 Socials:
